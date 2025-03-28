@@ -33,7 +33,7 @@
       "name": "Samsung utra 22",
       "price": 12,
       "image": "https://picsum.photos/200/200",
-      "quantity": 2,
+      "quantity": 5,
       "id": 8
     },
     {
@@ -85,6 +85,13 @@
       "username": "Hưng",
       "role": "admin",
       "id": 5
+    },
+    {
+      "email": "dunhph50785@gmail.com",
+      "password": "$2a$10$YmzJ5bOSComgyV0zexZPuuTw/79BMeCAyiVD/AF8SnHBkGSgUiCU6",
+      "username": "hoangdu",
+      "role": "user",
+      "id": 6
     }
   ],
   "order": [
