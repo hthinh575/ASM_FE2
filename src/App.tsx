@@ -17,6 +17,7 @@ import Index from "./pages";
 import ListOrder from "./pages/order/list";
 import Register from "./pages/auth/register";
 import Login from "./pages/auth/login";
+import UserList from "./pages/account/list";
 
 const { Header, Sider, Content, Footer } = Layout;
 const { Title } = Typography;
@@ -31,6 +32,7 @@ function App() {
     { path: "/order/list", element: <ListOrder /> },
     { path: "/register", element: <Register /> },
     { path: "/login", element: <Login /> },
+    { path: "/users", element: <UserList /> },
   ]);
 
   return (
