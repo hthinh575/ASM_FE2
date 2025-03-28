@@ -16,6 +16,7 @@ import {
 } from "@ant-design/icons";
 import axios from "axios";
 import { Link } from "react-router-dom";
+import ApexChart from "../statistics";
 
 function ProductList() {
   const queryClient = useQueryClient();
@@ -145,7 +146,8 @@ function ProductList() {
             icon={<PlusCircleOutlined />}
             style={{
               background:
-                "linear-gradient(135deg,rgb(133, 185, 241),rgb(2, 39, 80))",border: "none",
+                "linear-gradient(135deg,rgb(133, 185, 241),rgb(2, 39, 80))",
+              border: "none",
             }}
           >
             Add Product

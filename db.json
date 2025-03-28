@@ -37,12 +37,12 @@
       "id": 8
     },
     {
-      "name": "Mèo cò",
-      "price": 123,
-      "image": "https://picsum.photos/200/200",
-      "quantity": 1234,
-      "desc": "hh",
-      "id": 9
+      "name": "Sản phẩm 2",
+      "price": 79999,
+      "image": "https://clickbuy.com.vn/uploads/product-variant/2_54289.jpg",
+      "quantity": 1,
+      "desc": "h",
+      "id": 10
     }
   ],
   "categories": [
@@ -92,40 +92,73 @@
       "username": "hoangdu",
       "role": "user",
       "id": 6
+    },
+    {
+      "email": "dunhph123@gmail.com",
+      "password": "$2a$10$PP0VkaQMNKEyDIenaezayOO967jzn4tTd0M62eFvLULAOpfD7FAg6",
+      "username": "dunhph123@gmail.com",
+      "role": "user",
+      "id": 7
+    },
+    {
+      "email": "dunhph785@gmail.com",
+      "password": "$2a$10$vxpTwQ804AuyK8UGzM855OiSIA4wbuzLi3oP7Ta2X9nNewHEvcgbC",
+      "username": "dunhph@gmail.com",
+      "role": "admin",
+      "id": 8
     }
   ],
   "order": [
     {
-      "productId": 1,
-      "quantity": 2,
-      "id": 1,
-      "status": "success"
+      "productId": 10,
+      "quantity": 1,
+      "id": 1
     },
     {
       "productId": 1,
-      "quantity": 2,
+      "quantity": 1,
       "id": 2
     },
     {
       "productId": 1,
-      "quantity": 2,
+      "quantity": 1,
       "id": 3
     },
     {
-      "productId": 4,
-      "quantity": 3,
-      "id": 5,
-      "status": "canceled"
+      "productId": 1,
+      "quantity": 1,
+      "id": 4
     },
     {
-      "productId": 1,
-      "quantity": 3,
+      "productId": 4,
+      "quantity": 1,
+      "id": 5
+    },
+    {
+      "productId": 5,
+      "quantity": 1,
       "id": 6
     },
     {
-      "productId": 4,
-      "quantity": 3,
+      "productId": 7,
+      "quantity": 1,
       "id": 7
+    },
+    {
+      "productId": 8,
+      "quantity": 1,
+      "id": 8
+    },
+    {
+      "productId": 10,
+      "quantity": 1,
+      "id": 9
+    },
+    {
+      "productId": 10,
+      "quantity": 1,
+      "id": 10,
+      "status": "success"
     }
   ]
 }
