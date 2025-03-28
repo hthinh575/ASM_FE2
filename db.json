@@ -1,7 +1,7 @@
 {
   "products": [
     {
-      "name": "San pham A",
+      "name": "San pham Abc",
       "price": 32,
       "image": "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg",
       "quantity": 12,
