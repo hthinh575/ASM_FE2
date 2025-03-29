@@ -33,6 +33,7 @@ function App() {
     { path: "/order/list", element: <ListOrder /> },
     { path: "/register", element: <Register /> },
     { path: "/login", element: <Login /> },
+    { path: "/users", element: <UserList /> },
     { path: "/statistics", element: <ProductChart /> },
 
   ]);
