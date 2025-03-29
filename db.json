@@ -33,16 +33,16 @@
       "name": "Samsung utra 22",
       "price": 12,
       "image": "https://picsum.photos/200/200",
-      "quantity": 2,
+      "quantity": 5,
       "id": 8
     },
     {
-      "name": "Mèo cò",
-      "price": 123,
-      "image": "https://picsum.photos/200/200",
-      "quantity": 1234,
-      "desc": "hh",
-      "id": 9
+      "name": "Sản phẩm 2",
+      "price": 79999,
+      "image": "https://clickbuy.com.vn/uploads/product-variant/2_54289.jpg",
+      "quantity": 1,
+      "desc": "h",
+      "id": 10
     }
   ],
   "categories": [
@@ -87,87 +87,78 @@
       "id": 5
     },
     {
-      "email": "thinhphph52juyg516@gmail.com",
-      "password": "$2a$10$FNnvhrgi1fvX.tRftFmLXeZ7qXnkxAPJF2nh.UaB4.pwd1wWHAjeC",
-      "username": "uhgv",
+      "email": "dunhph50785@gmail.com",
+      "password": "$2a$10$YmzJ5bOSComgyV0zexZPuuTw/79BMeCAyiVD/AF8SnHBkGSgUiCU6",
+      "username": "hoangdu",
       "role": "user",
       "id": 6
     },
     {
-      "email": "phamhungthjhgfinh2005tb@gmail.com",
-      "password": "$2a$10$8AxnwSXxV0mBde37BdBLxONrNpyfKRmzqt/cDwqRnKrNf5gMzfvqm",
-      "username": "2023500235",
+      "email": "dunhph123@gmail.com",
+      "password": "$2a$10$PP0VkaQMNKEyDIenaezayOO967jzn4tTd0M62eFvLULAOpfD7FAg6",
+      "username": "dunhph123@gmail.com",
       "role": "user",
       "id": 7
     },
     {
-      "email": "thinhphph5iuytf2516@gmail.com",
-      "password": "$2a$10$GzpeM3REiRkCwb/C8ypanePOfstTDzDFlUbyjPH0eWwSvrryhmO9S",
-      "username": "2023500235",
-      "role": "user",
+      "email": "dunhph785@gmail.com",
+      "password": "$2a$10$vxpTwQ804AuyK8UGzM855OiSIA4wbuzLi3oP7Ta2X9nNewHEvcgbC",
+      "username": "dunhph@gmail.com",
+      "role": "admin",
       "id": 8
-    },
-    {
-      "email": "phamhungthinh20iuyg05tb@gmail.com",
-      "password": "$2a$10$LjNnogXchsclYk98t8AaDu6vJTYeUuu/07PCgRbNt4TfgwYFB6SZ.",
-      "username": "sonnui12376",
-      "role": "user",
-      "id": 9
-    },
-    {
-      "email": "johnuytg@example.com",
-      "password": "$2a$10$1eWMzN.0gKwUaGSVj739fujmMut05PpzvMQh6jRqdAF9neHUThcP.",
-      "username": "thinhphph5",
-      "role": "user",
-      "id": 10
-    },
-    {
-      "email": "thinhphph52sdfg516@gmail.com",
-      "password": "$2a$10$uIdq7LTphgu8ovDDUyoa6.9EUg.qMeBoghjmO1EtgEdjb0k7pXGpS",
-      "username": "thinhphph52516",
-      "role": "user",
-      "id": 11
-    },
-    {
-      "email": "thinhphph52edf516@gmail.com",
-      "password": "$2a$10$7pEv6cfgUNyHNPFLH33RgOLCESiMygGmZg4FxTBz1XJkunMYu7G36",
-      "username": "2023500235",
-      "role": "user",
-      "id": 12
     }
   ],
   "order": [
     {
-      "productId": 1,
-      "quantity": 2,
-      "id": 1,
-      "status": "success"
+      "productId": 10,
+      "quantity": 1,
+      "id": 1
     },
     {
       "productId": 1,
-      "quantity": 2,
+      "quantity": 1,
       "id": 2
     },
     {
       "productId": 1,
-      "quantity": 2,
+      "quantity": 1,
       "id": 3
     },
     {
-      "productId": 4,
-      "quantity": 3,
-      "id": 5,
-      "status": "canceled"
+      "productId": 1,
+      "quantity": 1,
+      "id": 4
     },
     {
-      "productId": 1,
-      "quantity": 3,
+      "productId": 4,
+      "quantity": 1,
+      "id": 5
+    },
+    {
+      "productId": 5,
+      "quantity": 1,
       "id": 6
     },
     {
-      "productId": 4,
-      "quantity": 3,
+      "productId": 7,
+      "quantity": 1,
       "id": 7
+    },
+    {
+      "productId": 8,
+      "quantity": 1,
+      "id": 8
+    },
+    {
+      "productId": 10,
+      "quantity": 1,
+      "id": 9
+    },
+    {
+      "productId": 10,
+      "quantity": 1,
+      "id": 10,
+      "status": "success"
     }
   ]
 }
